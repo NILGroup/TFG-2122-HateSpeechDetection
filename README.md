@@ -1,4 +1,4 @@
-Trabajo de Fin de Grado de [Ela K. Shepherd Arévalo](https://github.com/Elaphernelia)
+Trabajo de Fin de Grado de [Ela K. Shepherd Arévalo](https://github.com/Elaphernelia) del grado de Ingeniería Informática para la Universidad Complutense de Madrid, curso 2021/2022
 
 # ONLINE HATE SPEECH DETECTION USING MACHINE LEARNING
 
